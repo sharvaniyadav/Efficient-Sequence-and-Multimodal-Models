@@ -61,9 +61,10 @@ Each experiment is implemented in PyTorch with synthetic or simplified setups to
 The notebook contains all experiments, visualizations, and result discussions in a single, self-contained workflow.
 
 ## Report
-The full technical report is available here:
-[State_Space_Models_and_Efficient_Multimodal_Reasoning.pdf](main/State_Space_Models_and_Efficient_Multimodal_Reasoning.pdf)
 
+A detailed write-up covering the motivation, methodology, experiments, and results can be found in the full report:
+
+[State Space Models and Efficient Multimodal Reasoning (PDF)](State_Space_Models_and_Efficient_Multimodal_Reasoning.pdf)
 ---
 
 ## Notes
